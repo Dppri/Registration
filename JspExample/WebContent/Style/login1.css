@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+.login
+{
+border:1px solid;
+border-style:ridge;
+width:100%;
+height:80%;
+color:blue;
+border-color:green;
+font-size:x-large;
+font-family:cursive;
+margin-top:auto; 
+background-image: url(./image/kwang-mathurosemontri-110344-unsplash.jpg);
+}
