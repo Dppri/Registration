@@ -34,13 +34,6 @@ background-size: cover;
 } 
 
 
-.footer
-{
-
-border-bottom:thin;
-
-
-}
 
 
 </style>
